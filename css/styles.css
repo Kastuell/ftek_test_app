@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+}
+.status-awaiting {
+  background-color: yellow;
+}
+.status-in-transit {
+  background-color: blue;
+  color: white;
+}
+.status-delivered {
+  background-color: green;
+  color: white;
+}
